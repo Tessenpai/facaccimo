@@ -1202,7 +1202,7 @@
       "volume": "25",
       "last_updated": "1768823231",
       "groups": {
-        "Vol 25": "https://mangakatana.com/manga/kono-oto-tomare.1749/c105.5"
+        "Vol 25": "/proxy/api/imgur/chapter/eGpu0md"
       }
     },
     "114.5": {
@@ -1210,7 +1210,7 @@
       "volume": "27",
       "last_updated": "1768823498",
       "groups": {
-        "Vol 27": "https://mangakatana.com/manga/kono-oto-tomare.1749/c114.5"
+        "Vol 27": "/proxy/api/imgur/chapter/i4T8dLT"
       }
     },
     "128.5": {
@@ -1218,7 +1218,7 @@
       "volume": "30",
       "last_updated": "1768823919",
       "groups": {
-        "Vol 30": "https://mangakatana.com/manga/kono-oto-tomare.1749/c128.5"
+        "Vol 30": "/proxy/api/imgur/chapter/TOvXVuE"
       }
     }
   }
