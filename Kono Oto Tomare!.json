@@ -4,5 +4,112 @@
   "artist": "Amu",
   "author": "Amu",
   "cover": "https://static.wikia.nocookie.net/kono-oto-tomare/images/1/1c/Volume_33_cover.png/revision/latest?cb=20251017153725",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "Chapter 1: The New Member",
+      "volume": "1",
+      "last_updated": "1768816751",
+      "groups": {
+        "Vol 1": "https://mangakatana.com/manga/kono-oto-tomare.1749/c1"
+      }
+    },
+    "2": {
+      "title": "Chapter 2: Where to Find Someone Qualified",
+      "volume": "1",
+      "last_updated": "1768816795",
+      "groups": {
+        "Vol 1": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2Eva29uby1vdG8tdG9tYXJlLjE3NDkvYzI=/"
+      }
+    },
+    "3": {
+      "title": "Chapter 3: Join Our Club's Plan!",
+      "volume": "1",
+      "last_updated": "1768816855",
+      "groups": {
+        "Vol 1": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2Eva29uby1vdG8tdG9tYXJlLjE3NDkvYzM=/"
+      }
+    },
+    "4": {
+      "title": "Chapter 4: The New Koto Music Club Activates",
+      "volume": "2",
+      "last_updated": "1768816879",
+      "groups": {
+        "Vol 2": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2Eva29uby1vdG8tdG9tYXJlLjE3NDkvYzQ=/"
+      }
+    },
+    "5": {
+      "title": "Chapter 5: An Unachievable Thing",
+      "volume": "2",
+      "last_updated": "1768816909",
+      "groups": {
+        "Vol 2": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2Eva29uby1vdG8tdG9tYXJlLjE3NDkvYzU=/"
+      }
+    },
+    "6": {
+      "title": "Chapter 6: The First Echo",
+      "volume": "2",
+      "last_updated": "1768816940",
+      "groups": {
+        "Vol 2": [
+          "https://mangakatana.com/manga/kono-oto-tomare.1749/c6"
+        ]
+      }
+    },
+    "7": {
+      "title": "Chapter 7: Various Emotions",
+      "volume": "2",
+      "last_updated": "1768816976",
+      "groups": {
+        "Vol 2": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2Eva29uby1vdG8tdG9tYXJlLjE3NDkvYzc=/"
+      }
+    },
+    "8": {
+      "title": "Chapter 8: Let Our Sounds Echo",
+      "volume": "3",
+      "last_updated": "1768817017",
+      "groups": {
+        "Vol 3": "https://mangakatana.com/manga/kono-oto-tomare.1749/c8"
+      }
+    },
+    "9": {
+      "title": "Chapter 9: The Sound's Whereabouts",
+      "volume": "3",
+      "last_updated": "1768817042",
+      "groups": {
+        "Vol 3": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2Eva29uby1vdG8tdG9tYXJlLjE3NDkvYzk=/"
+      }
+    },
+    "10": {
+      "title": "Chapter 10: Invisible Boundary",
+      "volume": "3",
+      "last_updated": "1768817065",
+      "groups": {
+        "Vol 3": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2Eva29uby1vdG8tdG9tYXJlLjE3NDkvYzEw/"
+      }
+    },
+    "11": {
+      "title": "Chapter 11: The Hidden Note",
+      "volume": "3",
+      "last_updated": "1768817095",
+      "groups": {
+        "Vol 3": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2Eva29uby1vdG8tdG9tYXJlLjE3NDkvYzEx/"
+      }
+    },
+    "12": {
+      "title": "Chapter 12: The Real Reason",
+      "volume": "34",
+      "last_updated": "1768817156",
+      "groups": {
+        "Vol 4": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2Eva29uby1vdG8tdG9tYXJlLjE3NDkvYzEy/"
+      }
+    },
+    "148": {
+      "title": "Chapter 148: I'm Home, Welcome Back",
+      "volume": "34",
+      "last_updated": "1768813818",
+      "groups": {
+        "I'm Home, Welcome Back": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2Eva29uby1vdG8tdG9tYXJlLjE3NDkvYzE0OA==/"
+      }
+    }
+  }
 }
