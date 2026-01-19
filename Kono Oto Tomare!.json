@@ -97,10 +97,466 @@
     },
     "12": {
       "title": "Chapter 12: The Real Reason",
-      "volume": "34",
+      "volume": "4",
       "last_updated": "1768817156",
       "groups": {
         "Vol 4": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2Eva29uby1vdG8tdG9tYXJlLjE3NDkvYzEy/"
+      }
+    },
+    "13": {
+      "title": "Chapter 13: From Here",
+      "volume": "4",
+      "last_updated": "1768817275",
+      "groups": {
+        "Vol 4": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2Eva29uby1vdG8tdG9tYXJlLjE3NDkvYzEz/"
+      }
+    },
+    "14": {
+      "title": "Chapter 14: Milestone",
+      "volume": "4",
+      "last_updated": "1768817317",
+      "groups": {
+        "Vol 4": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2Eva29uby1vdG8tdG9tYXJlLjE3NDkvYzE0/"
+      }
+    },
+    "15": {
+      "title": "Chapter 15: Incoming Storm",
+      "volume": "4",
+      "last_updated": "1768817333",
+      "groups": {
+        "Vol 4": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2Eva29uby1vdG8tdG9tYXJlLjE3NDkvYzE1/"
+      }
+    },
+    "16": {
+      "title": "Chapter 16: A Sudden, Sharp Noise",
+      "volume": "5",
+      "last_updated": "1768817360",
+      "groups": {
+        "Vol 6": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2Eva29uby1vdG8tdG9tYXJlLjE3NDkvYzE2/"
+      }
+    },
+    "17": {
+      "title": "Chapter 17: Answer",
+      "volume": "5",
+      "last_updated": "1768817395",
+      "groups": {
+        "Vol 5": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2Eva29uby1vdG8tdG9tYXJlLjE3NDkvYzE3/"
+      }
+    },
+    "18": {
+      "title": "Chapter 18: Steps",
+      "volume": "5",
+      "last_updated": "1768817426",
+      "groups": {
+        "Vol 5": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2Eva29uby1vdG8tdG9tYXJlLjE3NDkvYzE4/"
+      }
+    },
+    "19": {
+      "title": "Chapter 19: Obscure Distances",
+      "volume": "5",
+      "last_updated": "1768817460",
+      "groups": {
+        "Vol 5": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2Eva29uby1vdG8tdG9tYXJlLjE3NDkvYzE5/"
+      }
+    },
+    "20": {
+      "title": "Chapter 20: Beside",
+      "volume": "6",
+      "last_updated": "1768817490",
+      "groups": {
+        "Vol 6": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2Eva29uby1vdG8tdG9tYXJlLjE3NDkvYzIw/"
+      }
+    },
+    "21": {
+      "title": "Chapter 21: The Sound I Was Looking For",
+      "volume": "6",
+      "last_updated": "1768817573",
+      "groups": {
+        "Vol 6": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2Eva29uby1vdG8tdG9tYXJlLjE3NDkvYzIx/"
+      }
+    },
+    "22": {
+      "title": "Chapter 22: The Kanto Music Festival Competition Begins",
+      "volume": "6",
+      "last_updated": "1768817601",
+      "groups": {
+        "Vol 6": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2Eva29uby1vdG8tdG9tYXJlLjE3NDkvYzIy/"
+      }
+    },
+    "23": {
+      "title": "Chapter 23: Kiriyuu Ousuke",
+      "volume": "6",
+      "last_updated": "1768817622",
+      "groups": {
+        "Vol 6": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2Eva29uby1vdG8tdG9tYXJlLjE3NDkvYzIz/"
+      }
+    },
+    "24": {
+      "title": "Chapter 24: Rivals",
+      "volume": "7",
+      "last_updated": "1768817651",
+      "groups": {
+        "Vol 7": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2Eva29uby1vdG8tdG9tYXJlLjE3NDkvYzI0/"
+      }
+    },
+    "25": {
+      "title": "Chapter 25: Decision",
+      "volume": "7",
+      "last_updated": "1768817759",
+      "groups": {
+        "Vol 7": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2Eva29uby1vdG8tdG9tYXJlLjE3NDkvYzI1/"
+      }
+    },
+    "26": {
+      "title": "Chapter 26: Ku-on",
+      "volume": "7",
+      "last_updated": "1768817790",
+      "groups": {
+        "Vol 7": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2Eva29uby1vdG8tdG9tYXJlLjE3NDkvYzI2/"
+      }
+    },
+    "27": {
+      "title": "Chapter 27: The Light's Sound",
+      "volume": "7",
+      "last_updated": "1768817820",
+      "groups": {
+        "Vol 7": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2Eva29uby1vdG8tdG9tYXJlLjE3NDkvYzI3/"
+      }
+    },
+    "28": {
+      "title": "Chapter 28: One Step Forward",
+      "volume": "8",
+      "last_updated": "1768817842",
+      "groups": {
+        "Vol 8": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2Eva29uby1vdG8tdG9tYXJlLjE3NDkvYzI4/"
+      }
+    },
+    "29": {
+      "title": "Chapter 29: Realisation",
+      "volume": "8",
+      "last_updated": "1768817865",
+      "groups": {
+        "I'm Home, Welcome Back": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2Eva29uby1vdG8tdG9tYXJlLjE3NDkvYzI5/"
+      }
+    },
+    "30": {
+      "title": "Chapter 30: Unshaken",
+      "volume": "8",
+      "last_updated": "1768817915",
+      "groups": {
+        "Vol 8": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2Eva29uby1vdG8tdG9tYXJlLjE3NDkvYzMw/"
+      }
+    },
+    "31": {
+      "title": "Chapter 31: Time for Two",
+      "volume": "8",
+      "last_updated": "1768817938",
+      "groups": {
+        "Vol 8": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2Eva29uby1vdG8tdG9tYXJlLjE3NDkvYzMx/"
+      }
+    },
+    "32": {
+      "title": "Chapter 32: The Sound of Truth",
+      "volume": "9",
+      "last_updated": "1768817973",
+      "groups": {
+        "Vol 9": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2Eva29uby1vdG8tdG9tYXJlLjE3NDkvYzMx/"
+      }
+    },
+    "33": {
+      "title": "Chapter 33: Reunion",
+      "volume": "9",
+      "last_updated": "1768818036",
+      "groups": {
+        "Vol 9": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2Eva29uby1vdG8tdG9tYXJlLjE3NDkvYzMz/"
+      }
+    },
+    "34": {
+      "title": "Chapter 34: Shadow",
+      "volume": "9",
+      "last_updated": "1768818089",
+      "groups": {
+        "Vol 9": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2Eva29uby1vdG8tdG9tYXJlLjE3NDkvYzM0/"
+      }
+    },
+    "35": {
+      "title": "Chapter 35: Their Resolution",
+      "volume": "9",
+      "last_updated": "1768818166",
+      "groups": {
+        "Vol 9": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2Eva29uby1vdG8tdG9tYXJlLjE3NDkvYzM1/"
+      }
+    },
+    "36": {
+      "title": "Chapter 36: Just Once",
+      "volume": "10",
+      "last_updated": "1768818187",
+      "groups": {
+        "Vol 10": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2Eva29uby1vdG8tdG9tYXJlLjE3NDkvYzM2/"
+      }
+    },
+    "37": {
+      "title": "Chapter 37: Doujima Akira",
+      "volume": "10",
+      "last_updated": "1768818208",
+      "groups": {
+        "Vol 10": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2Eva29uby1vdG8tdG9tYXJlLjE3NDkvYzM3/"
+      }
+    },
+    "38": {
+      "title": "Chapter 38: Confrontation",
+      "volume": "10",
+      "last_updated": "1768818230",
+      "groups": {
+        "Vol 10": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2Eva29uby1vdG8tdG9tYXJlLjE3NDkvYzM4/"
+      }
+    },
+    "39": {
+      "title": "Chapter 39: The Power of Youth",
+      "volume": "10",
+      "last_updated": "1768818281",
+      "groups": {
+        "Vol 10": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2Eva29uby1vdG8tdG9tYXJlLjE3NDkvYzM5/"
+      }
+    },
+    "40": {
+      "title": "Chapter 40: Once More",
+      "volume": "11",
+      "last_updated": "1768818316",
+      "groups": {
+        "Vol 11": "https://mangakatana.com/manga/kono-oto-tomare.1749/c40"
+      }
+    },
+    "41": {
+      "title": "Chapter 41: Role and Meaning",
+      "volume": "11",
+      "last_updated": "1768818337",
+      "groups": {
+        "Vol 11": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2Eva29uby1vdG8tdG9tYXJlLjE3NDkvYzQx/"
+      }
+    },
+    "42": {
+      "title": "Chapter 42: Someday",
+      "volume": "11",
+      "last_updated": "1768818360",
+      "groups": {
+        "Vol 11": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2Eva29uby1vdG8tdG9tYXJlLjE3NDkvYzQy/"
+      }
+    },
+    "43": {
+      "title": "Chapter 43: Morning of Battle",
+      "volume": "11",
+      "last_updated": "1768818390",
+      "groups": {
+        "Vol 11": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2Eva29uby1vdG8tdG9tYXJlLjE3NDkvYzQz/"
+      }
+    },
+    "44": {
+      "title": "Chapter 44: Start of the National Preliminaries",
+      "volume": "12",
+      "last_updated": "1768818414",
+      "groups": {
+        "Vol 12": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2Eva29uby1vdG8tdG9tYXJlLjE3NDkvYzQ0/"
+      }
+    },
+    "45": {
+      "title": "Chapter 45: The King's Resolve",
+      "volume": "12",
+      "last_updated": "1768818435",
+      "groups": {
+        "Vol 12": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2Eva29uby1vdG8tdG9tYXJlLjE3NDkvYzQ1/"
+      }
+    },
+    "46": {
+      "title": "Chapter 46: Three Paraphrases",
+      "volume": "12",
+      "last_updated": "1768818459",
+      "groups": {
+        "Vol 12": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2Eva29uby1vdG8tdG9tYXJlLjE3NDkvYzQ2/"
+      }
+    },
+    "47": {
+      "title": "Chapter 47: Youth Doesn't Laugh",
+      "volume": "12",
+      "last_updated": "1768818481",
+      "groups": {
+        "Vol 12": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2Eva29uby1vdG8tdG9tYXJlLjE3NDkvYzQ3/"
+      }
+    },
+    "48": {
+      "title": "Chapter 48: The Sound of Math",
+      "volume": "13",
+      "last_updated": "1768818508",
+      "groups": {
+        "Vol 13": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2Eva29uby1vdG8tdG9tYXJlLjE3NDkvYzQ4/"
+      }
+    },
+    "49": {
+      "title": "Chapter 49: Beyond Perfection",
+      "volume": "13",
+      "last_updated": "1768818540",
+      "groups": {
+        "Vol 13": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2Eva29uby1vdG8tdG9tYXJlLjE3NDkvYzQ5/"
+      }
+    },
+    "50": {
+      "title": "Chapter 50: The Sound of Satowa",
+      "volume": "13",
+      "last_updated": "1768818567",
+      "groups": {
+        "Vol 13": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2Eva29uby1vdG8tdG9tYXJlLjE3NDkvYzUw/"
+      }
+    },
+    "51": {
+      "title": "Chapter 51: The Essence of Music",
+      "volume": "13",
+      "last_updated": "1768818599",
+      "groups": {
+        "Vol 13": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2Eva29uby1vdG8tdG9tYXJlLjE3NDkvYzUx/"
+      }
+    },
+    "52": {
+      "title": "Chapter 52: Tenkyuu",
+      "volume": "14",
+      "last_updated": "1768818622",
+      "groups": {
+        "Vol 14": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2Eva29uby1vdG8tdG9tYXJlLjE3NDkvYzUy/"
+      }
+    },
+    "53": {
+      "title": "Chapter 53: 1/14",
+      "volume": "14",
+      "last_updated": "1768818662",
+      "groups": {
+        "Vol 14": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2Eva29uby1vdG8tdG9tYXJlLjE3NDkvYzUz/"
+      }
+    },
+    "54": {
+      "title": "Chapter 54: Starting Line",
+      "volume": "14",
+      "last_updated": "1768818716",
+      "groups": {
+        "Vol 14": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2Eva29uby1vdG8tdG9tYXJlLjE3NDkvYzU0/"
+      }
+    },
+    "55": {
+      "title": "Chapter 55: Nostalgic Warmth",
+      "volume": "14",
+      "last_updated": "1768818742",
+      "groups": {
+        "Vol 14": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2Eva29uby1vdG8tdG9tYXJlLjE3NDkvYzU1/"
+      }
+    },
+    "56": {
+      "title": "Chapter 56: Blue String",
+      "volume": "15",
+      "last_updated": "1768818767",
+      "groups": {
+        "Vol 15": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2Eva29uby1vdG8tdG9tYXJlLjE3NDkvYzU2/"
+      }
+    },
+    "57": {
+      "title": "Chapter 57: White Christmas Eve",
+      "volume": "15",
+      "last_updated": "1768818787",
+      "groups": {
+        "Vol 15": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2Eva29uby1vdG8tdG9tYXJlLjE3NDkvYzU3/"
+      }
+    },
+    "58": {
+      "title": "Chapter 58: New Year",
+      "volume": "15",
+      "last_updated": "1768818842",
+      "groups": {
+        "Vol 15": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2Eva29uby1vdG8tdG9tYXJlLjE3NDkvYzU4/"
+      }
+    },
+    "59": {
+      "title": "Chapter 59: Present",
+      "volume": "15",
+      "last_updated": "1768818884",
+      "groups": {
+        "Vol 15": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2Eva29uby1vdG8tdG9tYXJlLjE3NDkvYzU5/"
+      }
+    },
+    "60": {
+      "title": "Chapter 60: A New Wind",
+      "volume": "16",
+      "last_updated": "1768818907",
+      "groups": {
+        "Vol 16": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2Eva29uby1vdG8tdG9tYXJlLjE3NDkvYzYw/"
+      }
+    },
+    "61": {
+      "title": "Chapter 61: The Two's Abilities",
+      "volume": "16",
+      "last_updated": "1768818948",
+      "groups": {
+        "Vol 16": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2Eva29uby1vdG8tdG9tYXJlLjE3NDkvYzYx/"
+      }
+    },
+    "62": {
+      "title": "Chapter 62: Kouhai",
+      "volume": "16",
+      "last_updated": "1768821576",
+      "groups": {
+        "Vol 16": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2Eva29uby1vdG8tdG9tYXJlLjE3NDkvYzYy/"
+      }
+    },
+    "63": {
+      "title": "Chapter 63: Senpai",
+      "volume": "16",
+      "last_updated": "1768821741",
+      "groups": {
+        "Vol 16": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2Eva29uby1vdG8tdG9tYXJlLjE3NDkvYzYz/"
+      }
+    },
+    "64": {
+      "title": "Chapter 64: Blue Symphony",
+      "volume": "17",
+      "last_updated": "1768821805",
+      "groups": {
+        "Vol 17": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2Eva29uby1vdG8tdG9tYXJlLjE3NDkvYzY0/"
+      }
+    },
+    "65": {
+      "title": "Chapter 65: Their Own Rokudan",
+      "volume": "17",
+      "last_updated": "1768821835",
+      "groups": {
+        "Vol 17": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2Eva29uby1vdG8tdG9tYXJlLjE3NDkvYzY1/"
+      }
+    },
+    "66": {
+      "title": "Chapter 66: Fill In",
+      "volume": "17",
+      "last_updated": "1768821870",
+      "groups": {
+        "Vol 17": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2Eva29uby1vdG8tdG9tYXJlLjE3NDkvYzY2/"
+      }
+    },
+    "67": {
+      "title": "Chapter 67: Whispered Truth",
+      "volume": "17",
+      "last_updated": "1768821895",
+      "groups": {
+        "Vol 17": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2Eva29uby1vdG8tdG9tYXJlLjE3NDkvYzY3/"
+      }
+    },
+    "68": {
+      "title": "Chapter 68: Manly Heart",
+      "volume": "18",
+      "last_updated": "1768821929",
+      "groups": {
+        "Vol 18": "https://mangakatana.com/manga/kono-oto-tomare.1749/c68"
+      }
+    },
+    "69": {
+      "title": "Chapter 69: Single Flower",
+      "volume": "18",
+      "last_updated": "1768821967",
+      "groups": {
+        "Vol 18": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2Eva29uby1vdG8tdG9tYXJlLjE3NDkvYzY5/"
       }
     },
     "148": {
